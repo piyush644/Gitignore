@@ -1,0 +1,14 @@
+C:\Users\91774\OneDrive\Desktop\C# assignment\C#Q1\bin\Debug\net8.0\C#Q1.exe
+C:\Users\91774\OneDrive\Desktop\C# assignment\C#Q1\bin\Debug\net8.0\C#Q1.deps.json
+C:\Users\91774\OneDrive\Desktop\C# assignment\C#Q1\bin\Debug\net8.0\C#Q1.runtimeconfig.json
+C:\Users\91774\OneDrive\Desktop\C# assignment\C#Q1\bin\Debug\net8.0\C#Q1.dll
+C:\Users\91774\OneDrive\Desktop\C# assignment\C#Q1\bin\Debug\net8.0\C#Q1.pdb
+C:\Users\91774\OneDrive\Desktop\C# assignment\C#Q1\obj\Debug\net8.0\C#Q1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\91774\OneDrive\Desktop\C# assignment\C#Q1\obj\Debug\net8.0\C#Q1.AssemblyInfoInputs.cache
+C:\Users\91774\OneDrive\Desktop\C# assignment\C#Q1\obj\Debug\net8.0\C#Q1.AssemblyInfo.cs
+C:\Users\91774\OneDrive\Desktop\C# assignment\C#Q1\obj\Debug\net8.0\C#Q1.csproj.CoreCompileInputs.cache
+C:\Users\91774\OneDrive\Desktop\C# assignment\C#Q1\obj\Debug\net8.0\C#Q1.dll
+C:\Users\91774\OneDrive\Desktop\C# assignment\C#Q1\obj\Debug\net8.0\refint\C#Q1.dll
+C:\Users\91774\OneDrive\Desktop\C# assignment\C#Q1\obj\Debug\net8.0\C#Q1.pdb
+C:\Users\91774\OneDrive\Desktop\C# assignment\C#Q1\obj\Debug\net8.0\C#Q1.genruntimeconfig.cache
+C:\Users\91774\OneDrive\Desktop\C# assignment\C#Q1\obj\Debug\net8.0\ref\C#Q1.dll

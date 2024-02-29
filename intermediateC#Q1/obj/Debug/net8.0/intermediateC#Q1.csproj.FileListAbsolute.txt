@@ -1,0 +1,15 @@
+C:\Users\piyus\OneDrive - manit.ac.in\Desktop\Gitignore\intermediateC#Q1\bin\Debug\net8.0\intermediateC#Q1.exe
+C:\Users\piyus\OneDrive - manit.ac.in\Desktop\Gitignore\intermediateC#Q1\bin\Debug\net8.0\intermediateC#Q1.deps.json
+C:\Users\piyus\OneDrive - manit.ac.in\Desktop\Gitignore\intermediateC#Q1\bin\Debug\net8.0\intermediateC#Q1.runtimeconfig.json
+C:\Users\piyus\OneDrive - manit.ac.in\Desktop\Gitignore\intermediateC#Q1\bin\Debug\net8.0\intermediateC#Q1.dll
+C:\Users\piyus\OneDrive - manit.ac.in\Desktop\Gitignore\intermediateC#Q1\bin\Debug\net8.0\intermediateC#Q1.pdb
+C:\Users\piyus\OneDrive - manit.ac.in\Desktop\Gitignore\intermediateC#Q1\obj\Debug\net8.0\intermediateC#Q1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\piyus\OneDrive - manit.ac.in\Desktop\Gitignore\intermediateC#Q1\obj\Debug\net8.0\intermediateC#Q1.AssemblyInfoInputs.cache
+C:\Users\piyus\OneDrive - manit.ac.in\Desktop\Gitignore\intermediateC#Q1\obj\Debug\net8.0\intermediateC#Q1.AssemblyInfo.cs
+C:\Users\piyus\OneDrive - manit.ac.in\Desktop\Gitignore\intermediateC#Q1\obj\Debug\net8.0\intermediateC#Q1.csproj.CoreCompileInputs.cache
+C:\Users\piyus\OneDrive - manit.ac.in\Desktop\Gitignore\intermediateC#Q1\obj\Debug\net8.0\intermediateC#Q1.sourcelink.json
+C:\Users\piyus\OneDrive - manit.ac.in\Desktop\Gitignore\intermediateC#Q1\obj\Debug\net8.0\intermediateC#Q1.dll
+C:\Users\piyus\OneDrive - manit.ac.in\Desktop\Gitignore\intermediateC#Q1\obj\Debug\net8.0\refint\intermediateC#Q1.dll
+C:\Users\piyus\OneDrive - manit.ac.in\Desktop\Gitignore\intermediateC#Q1\obj\Debug\net8.0\intermediateC#Q1.pdb
+C:\Users\piyus\OneDrive - manit.ac.in\Desktop\Gitignore\intermediateC#Q1\obj\Debug\net8.0\intermediateC#Q1.genruntimeconfig.cache
+C:\Users\piyus\OneDrive - manit.ac.in\Desktop\Gitignore\intermediateC#Q1\obj\Debug\net8.0\ref\intermediateC#Q1.dll

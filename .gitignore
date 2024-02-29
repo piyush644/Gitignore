@@ -1,6 +1,8 @@
-C#Q1/bin
-C#Q1/obj
 
-.gitignore
-Gitignore.sln
+
+bin/Debug/net8.0
+obj
+
+
+
 
